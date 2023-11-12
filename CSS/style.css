@@ -1,0 +1,4 @@
+.navbar-nav a.nav-link:hover {
+  color: #838181; 
+  text-decoration: underline; 
+}
