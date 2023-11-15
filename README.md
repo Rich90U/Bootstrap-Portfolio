@@ -22,7 +22,7 @@ The header includes a navigation bar built with Bootstrap, offering easy navigat
 
 ## Jumbotron
 
-The Jumbotron section features a profile image, along with a brief introduction advisingf I'm proficient in the latest front end technologies. The section also invites visitors to contact me.
+The Jumbotron section features a profile image, along with a brief introduction advising I'm proficient in the latest front end technologies. The section also invites visitors to contact me.
 
 ---
 
